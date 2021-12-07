@@ -9,4 +9,4 @@
 
 正在努力学习数据结构，但愿我会有时间在这里发点东西//I can't translate this sentence.
 
-如果你喜欢我，可以来逛逛我的主页→→→//If you like me,you can look look my website.
+如果你喜欢我，可以来逛逛我的主页→→→//If you like me,you can look look my website.→→→
