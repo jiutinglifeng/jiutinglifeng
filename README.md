@@ -1,4 +1,4 @@
-# About Me
+# 关于我 // About Me
 这里是旧亭离风，一个计算机专业（人工智能应用方向）在读的带砖生//This is JiuTingLiFeng,a computer major's big brick student.
 
 一个普普通通的哔哩哔哩小up主//A vulgar bilibili uper.
